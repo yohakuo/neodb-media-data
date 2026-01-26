@@ -1,9 +1,9 @@
-name: Sync NeoDB Podcast (complete)
+name: Sync NeoDB Podcast (progress)
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 2 * * *" # 每天 UTC 02:23 跑一次（你随便改）
+    - cron: "23 2 * * *"
 
 permissions:
   contents: write
@@ -12,34 +12,30 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install deps
-        run: |
+      - run: |
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Fetch NeoDB shelf (podcast complete) -> index.json
+      - name: Fetch NeoDB shelf (podcast progress) -> index.json
         env:
           NEODB_TOKEN: ${{ secrets.NEODB_TOKEN }}
           NEODB_BASE: https://neodb.social
         run: |
           python - <<'PY'
-          import os, json, time
-          import requests
+          import os, json, time, requests
           from datetime import datetime, timezone
 
-          base = os.getenv("NEODB_BASE", "https://neodb.social").rstrip("/")
+          base = os.getenv("NEODB_BASE","https://neodb.social").rstrip("/")
           token = os.environ["NEODB_TOKEN"]
 
-          # 你只抓 podcast + complete
-          url_tpl = f"{base}/api/me/shelf/complete?category=podcast&page={{page}}"
+          # progress（正在听）
+          url_tpl = f"{base}/api/me/shelf/progress?category=podcast&page={{page}}"
 
           headers = {
               "Authorization": f"Bearer {token}",
@@ -50,36 +46,28 @@ jobs:
           items = []
           page = 1
           while True:
-              url = url_tpl.format(page=page)
-              r = requests.get(url, headers=headers, timeout=30)
+              r = requests.get(url_tpl.format(page=page), headers=headers, timeout=30)
               if r.status_code != 200:
                   raise SystemExit(f"Request failed: {r.status_code} {r.text[:2000]}")
               data = r.json()
-
-              # NeoDB 常见返回：{"data":[...], "count":..., ...}
               page_items = data.get("data") or []
               if not page_items:
                   break
-
               items.extend(page_items)
               page += 1
-              time.sleep(0.2)  # 轻微限速，避免打太快
+              time.sleep(0.2)
 
           out = {
               "generated_at": datetime.now(timezone.utc).isoformat(),
-              "source": {
-                  "base": base,
-                  "shelf": "complete",
-                  "category": "podcast",
-              },
+              "source": {"base": base, "shelf": "progress", "category": "podcast"},
               "count": len(items),
-              "items": items,
+              "items": items
           }
 
-          with open("index.json", "w", encoding="utf-8") as f:
+          with open("index.json","w",encoding="utf-8") as f:
               json.dump(out, f, ensure_ascii=False, indent=2)
 
-          print(f"Wrote index.json with {len(items)} items")
+          print("Wrote index.json:", len(items))
           PY
 
       - name: Commit & push if changed
@@ -88,10 +76,8 @@ jobs:
             echo "No changes in index.json"
             exit 0
           fi
-
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add index.json
-          git commit -m "chore: sync neodb podcast complete"
+          git commit -m "chore: sync neodb podcast progress"
           git push
