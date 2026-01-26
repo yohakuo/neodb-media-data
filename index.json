@@ -1,22 +1,10 @@
 {
-    "generated_at": "2026-01-26T12:34:56Z",
-    "items": [
-        {
-            "uuid": "xxxxxxxx",
-            "type": "movie|tv|book|podcast|game",
-            "tab": "recent|wen|ying|ting|you",
-            "title": "xxx",
-            "year": 2024,
-            "cover": "https://....jpg",
-            "neodb_url": "https://neodb.social/movie/xxxxxxxx",
-            "created_time": "2026-01-01T08:00:00Z",
-            "rating": 8,
-            "comment_text": "短评...",
-            "tags": [
-                "tag1",
-                "tag2"
-            ],
-            "subtype": "movie|tv|podcast"
-        }
-    ]
+  "generated_at": "2026-01-26T08:23:40.569692+00:00",
+  "source": {
+    "base": "https://neodb.social",
+    "shelf": "complete",
+    "category": "podcast"
+  },
+  "count": 0,
+  "items": []
 }
