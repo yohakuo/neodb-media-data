@@ -1,10 +1,1440 @@
 {
-  "generated_at": "2026-01-26T08:23:40.569692+00:00",
+  "generated_at": "2026-01-26T08:38:18.591758+00:00",
   "source": {
     "base": "https://neodb.social",
-    "shelf": "complete",
+    "shelf": "progress",
     "category": "podcast"
   },
-  "count": 0,
-  "items": []
+  "count": 28,
+  "items": [
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521682849779120,
+      "item": {
+        "type": "Podcast",
+        "title": "ChickenCeaseHerSalad",
+        "description": "Hot girls yap and spill tea here. Myeahhhh\nI yap a lot about womanhood, relationships/friendships, parents issues, self love, girl problems. etc\nCome catch up with meeeee^^.~",
+        "localized_title": [
+          {
+            "lang": "en",
+            "text": "ChickenCeaseHerSalad"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "en",
+            "text": "Hot girls yap and spill tea here. Myeahhhh\nI yap a lot about womanhood, relationships/friendships, parents issues, self love, girl problems. etc\nCome catch up with meeeee^^.~"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2026/01/26/485ea470-4140-406d-a0ae-ba0dbf875cff.jpg",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "Hot girls yap and spill tea here. Myeahhhh\nI yap a lot about womanhood, relationships/friendships, parents issues, self love, girl problems. etc\nCome catch up with meeeee^^.~",
+        "id": "https://neodb.social/podcast/4xe8kpKGAW2LdRidYU6Vze",
+        "uuid": "4xe8kpKGAW2LdRidYU6Vze",
+        "url": "/podcast/4xe8kpKGAW2LdRidYU6Vze",
+        "api_url": "/api/podcast/4xe8kpKGAW2LdRidYU6Vze",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "ChickenCeaseHerSalad",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/xmtlld4bkbyv"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:54.411Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521671049543136,
+      "item": {
+        "type": "Podcast",
+        "title": "纵横 Say Hi",
+        "description": "这不是一个「英语培训」播客，而是一个有趣好听的通过文化接触语言的播客",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "纵横 Say Hi"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "这不是一个「英语培训」播客，而是一个有趣好听的通过文化接触语言的播客"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2026/01/26/4fa788da-638f-43bb-bc69-43028764f4ad.png",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "这不是一个「英语培训」播客，而是一个有趣好听的通过文化接触语言的播客",
+        "id": "https://neodb.social/podcast/0XY3JPfkW5LjGiBMfTbZJv",
+        "uuid": "0XY3JPfkW5LjGiBMfTbZJv",
+        "url": "/podcast/0XY3JPfkW5LjGiBMfTbZJv",
+        "api_url": "/api/podcast/0XY3JPfkW5LjGiBMfTbZJv",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "纵横 Say Hi",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/thbyptbgxwwb"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:51.601Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521656429000520,
+      "item": {
+        "type": "Podcast",
+        "title": "霜白之书",
+        "description": "这里没有恐怖渲染，只有叙事和思考。讲述案件，也讲述它背后的时代、社会和人性。\n愿我们终能用温暖照亮黑暗。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "霜白之书"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "这里没有恐怖渲染，只有叙事和思考。讲述案件，也讲述它背后的时代、社会和人性。\n愿我们终能用温暖照亮黑暗。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2026/01/26/76157774-60d4-40ef-aeb6-39e9875d3af9.jpg",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "这里没有恐怖渲染，只有叙事和思考。讲述案件，也讲述它背后的时代、社会和人性。\n愿我们终能用温暖照亮黑暗。",
+        "id": "https://neodb.social/podcast/1YjsUrzXXMWksQDLTcNMC4",
+        "uuid": "1YjsUrzXXMWksQDLTcNMC4",
+        "url": "/podcast/1YjsUrzXXMWksQDLTcNMC4",
+        "api_url": "/api/podcast/1YjsUrzXXMWksQDLTcNMC4",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "霜白之书",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/6p6gcm7x3jc7"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:48.116Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521645630119816,
+      "item": {
+        "type": "Podcast",
+        "title": "白丁路书",
+        "description": "谈笑无鸿儒，往来有白丁。\n—— 讲有趣有用的文史故事，愿君大笑中更懂中国！\n\n⏰ 每周一早上 7 点更新，文史相声讲起来~\n\n🎤 关于主播\n白丁：驯服儿化音的南方人儿，特别爱求真和大笑\n小毒：自信到自己都孩怕的北京大妞，没啥不敢讲\n\n✂️ 咱就是说\n兼职主播，一刀不剪，全是口癖，努力优化 😃\n\n❤️ 欢迎合作\n欢迎各大品牌方和出版社与我们合作，希望提供对听众朋友有价值的产品推荐以及书籍赠送~",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "白丁路书"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "谈笑无鸿儒，往来有白丁。\n—— 讲有趣有用的文史故事，愿君大笑中更懂中国！\n\n⏰ 每周一早上 7 点更新，文史相声讲起来~\n\n🎤 关于主播\n白丁：驯服儿化音的南方人儿，特别爱求真和大笑\n小毒：自信到自己都孩怕的北京大妞，没啥不敢讲\n\n✂️ 咱就是说\n兼职主播，一刀不剪，全是口癖，努力优化 😃\n\n❤️ 欢迎合作\n欢迎各大品牌方和出版社与我们合作，希望提供对听众朋友有价值的产品推荐以及书籍赠送~"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2026/01/26/469eb236-9630-4d07-b5f6-47485b911c91.png",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "谈笑无鸿儒，往来有白丁。\n—— 讲有趣有用的文史故事，愿君大笑中更懂中国！\n\n⏰ 每周一早上 7 点更新，文史相声讲起来~\n\n🎤 关于主播\n白丁：驯服儿化音的南方人儿，特别爱求真和大笑\n小毒：自信到自己都孩怕的北京大妞，没啥不敢讲\n\n✂️ 咱就是说\n兼职主播，一刀不剪，全是口癖，努力优化 😃\n\n❤️ 欢迎合作\n欢迎各大品牌方和出版社与我们合作，希望提供对听众朋友有价值的产品推荐以及书籍赠送~",
+        "id": "https://neodb.social/podcast/6l9ydby3Z1AdE66q5ujTOF",
+        "uuid": "6l9ydby3Z1AdE66q5ujTOF",
+        "url": "/podcast/6l9ydby3Z1AdE66q5ujTOF",
+        "api_url": "/api/podcast/6l9ydby3Z1AdE66q5ujTOF",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "白丁路书",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/lwjye6nq6xe9"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:45.538Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521631944345472,
+      "item": {
+        "type": "Podcast",
+        "title": "严肃喧哗",
+        "description": "轻松学术，严肃生活\n\n「关于节目」\n一档轻松的文化学术节目，由一位女性主持。\n\n现已推出上海众生相、世界女性史、金庸、哈利波特、上野千鹤子、互联网研究、女性创作、马克思列宁主题等系列节目，欢迎收听、交流～\n\n「关于门童」\n流窜全球打螺丝，曾经是北大图书馆借阅榜冠军\n豆瓣、知乎、小红书同名：门童inSydney",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "严肃喧哗"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "轻松学术，严肃生活\n\n「关于节目」\n一档轻松的文化学术节目，由一位女性主持。\n\n现已推出上海众生相、世界女性史、金庸、哈利波特、上野千鹤子、互联网研究、女性创作、马克思列宁主题等系列节目，欢迎收听、交流～\n\n「关于门童」\n流窜全球打螺丝，曾经是北大图书馆借阅榜冠军\n豆瓣、知乎、小红书同名：门童inSydney"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2025/04/25/92040762-771f-4e58-8e63-364f97df2b51.jpg",
+        "rating": null,
+        "rating_count": 1,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "轻松学术，严肃生活\n\n「关于节目」\n一档轻松的文化学术节目，由一位女性主持。\n\n现已推出上海众生相、世界女性史、金庸、哈利波特、上野千鹤子、互联网研究、女性创作、马克思列宁主题等系列节目，欢迎收听、交流～\n\n「关于门童」\n流窜全球打螺丝，曾经是北大图书馆借阅榜冠军\n豆瓣、知乎、小红书同名：门童inSydney",
+        "id": "https://neodb.social/podcast/08d2DHcLHjfl4O55COrYLP",
+        "uuid": "08d2DHcLHjfl4O55COrYLP",
+        "url": "/podcast/08d2DHcLHjfl4O55COrYLP",
+        "api_url": "/api/podcast/08d2DHcLHjfl4O55COrYLP",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "严肃喧哗",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/3cdnxpambcc8"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:42.274Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521614020279112,
+      "item": {
+        "type": "Podcast",
+        "title": "码农姐妹",
+        "description": "《码农姐妹》是一档关注科技女性的访谈类播客。主播菜菜是一名工作八年的后端程序员，节目邀请了来自不同领域和多元文化背景的嘉宾，一起打破信息壁垒，深入了解不同的科技岗位。在节目中，你会听到服务端开发、测试开发工程师、项目经理、数据分析师、产品经理等嘉宾们的成长故事，听她们聊聊个人成长、职业规划和女性领导力等话题。\n往期节目中，主播会收集码农姐妹信箱中的听众问题，和嘉宾一起探讨。节目双周更新。欢迎各位听众来玩。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "码农姐妹"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "《码农姐妹》是一档关注科技女性的访谈类播客。主播菜菜是一名工作八年的后端程序员，节目邀请了来自不同领域和多元文化背景的嘉宾，一起打破信息壁垒，深入了解不同的科技岗位。在节目中，你会听到服务端开发、测试开发工程师、项目经理、数据分析师、产品经理等嘉宾们的成长故事，听她们聊聊个人成长、职业规划和女性领导力等话题。\n往期节目中，主播会收集码农姐妹信箱中的听众问题，和嘉宾一起探讨。节目双周更新。欢迎各位听众来玩。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2024/07/06/6ce7ca19-1034-41c5-83cd-b9ed45d4a332.jpg",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "《码农姐妹》是一档关注科技女性的访谈类播客。主播菜菜是一名工作八年的后端程序员，节目邀请了来自不同领域和多元文化背景的嘉宾，一起打破信息壁垒，深入了解不同的科技岗位。在节目中，你会听到服务端开发、测试开发工程师、项目经理、数据分析师、产品经理等嘉宾们的成长故事，听她们聊聊个人成长、职业规划和女性领导力等话题。\n往期节目中，主播会收集码农姐妹信箱中的听众问题，和嘉宾一起探讨。节目双周更新。欢迎各位听众来玩。",
+        "id": "https://neodb.social/podcast/6L39u8L0Kf2NpU51YmARHs",
+        "uuid": "6L39u8L0Kf2NpU51YmARHs",
+        "url": "/podcast/6L39u8L0Kf2NpU51YmARHs",
+        "api_url": "/api/podcast/6L39u8L0Kf2NpU51YmARHs",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "码农姐妹",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/x66ypjdc44xv"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:37.999Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521607778613712,
+      "item": {
+        "type": "Podcast",
+        "title": "天真不天真",
+        "description": "杨天真播客\n\n欢迎来到我的播客。\n\n在这里，我会和大家分享那些或“天真”或“不天真”的故事。有时邀请好友，有时探寻人生，与世界碰撞，聊着聊着，聊出真相。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "天真不天真"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "杨天真播客\n\n欢迎来到我的播客。\n\n在这里，我会和大家分享那些或“天真”或“不天真”的故事。有时邀请好友，有时探寻人生，与世界碰撞，聊着聊着，聊出真相。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2024/11/14/5132370e-fc0e-4fdc-9cfb-9b4b8d830bd6.jpg",
+        "rating": null,
+        "rating_count": 1,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "杨天真播客\n\n欢迎来到我的播客。\n\n在这里，我会和大家分享那些或“天真”或“不天真”的故事。有时邀请好友，有时探寻人生，与世界碰撞，聊着聊着，聊出真相。",
+        "id": "https://neodb.social/podcast/01o9mIxm7mWiM9xnYxzxHg",
+        "uuid": "01o9mIxm7mWiM9xnYxzxHg",
+        "url": "/podcast/01o9mIxm7mWiM9xnYxzxHg",
+        "api_url": "/api/podcast/01o9mIxm7mWiM9xnYxzxHg",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "天真不天真",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/mcklbwxjdvfu"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:36.512Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521600713000064,
+      "item": {
+        "type": "Podcast",
+        "title": "女子大声",
+        "description": "我们女人就是要大声提问！大胆发言！\n\n女子大声是一档女性聊天节目，每期围绕一个可能让女性生活得更好的话题，邀请相关领域女性分享经验、说出观点、探索可能。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "女子大声"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "我们女人就是要大声提问！大胆发言！\n\n女子大声是一档女性聊天节目，每期围绕一个可能让女性生活得更好的话题，邀请相关领域女性分享经验、说出观点、探索可能。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2026/01/26/2a0b329c-6d03-4113-baa1-ea912a067b6a.jpg",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "我们女人就是要大声提问！大胆发言！\n\n女子大声是一档女性聊天节目，每期围绕一个可能让女性生活得更好的话题，邀请相关领域女性分享经验、说出观点、探索可能。",
+        "id": "https://neodb.social/podcast/678OzckfuzPXbSGxuCggKf",
+        "uuid": "678OzckfuzPXbSGxuCggKf",
+        "url": "/podcast/678OzckfuzPXbSGxuCggKf",
+        "api_url": "/api/podcast/678OzckfuzPXbSGxuCggKf",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "女子大声",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/pmrrxbfc8e3n"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:34.830Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521591086143184,
+      "item": {
+        "type": "Podcast",
+        "title": "乌鸦不在场",
+        "description": "乌鸦不在场是一档讲述真实罪案的播客，Gigi和Lili将从女性视角出发，挑选全世界的不同案件，为大家讲述分析，和大家一起讨论这些案件。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "乌鸦不在场"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "乌鸦不在场是一档讲述真实罪案的播客，Gigi和Lili将从女性视角出发，挑选全世界的不同案件，为大家讲述分析，和大家一起讨论这些案件。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2024/08/14/008866bd-60b9-4ace-9f9c-13ddab931047.jpg",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "乌鸦不在场是一档讲述真实罪案的播客，Gigi和Lili将从女性视角出发，挑选全世界的不同案件，为大家讲述分析，和大家一起讨论这些案件。",
+        "id": "https://neodb.social/podcast/10Golz5xk5WcMZkh3OGtNt",
+        "uuid": "10Golz5xk5WcMZkh3OGtNt",
+        "url": "/podcast/10Golz5xk5WcMZkh3OGtNt",
+        "api_url": "/api/podcast/10Golz5xk5WcMZkh3OGtNt",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "乌鸦不在场",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/tcfbegjbvj4h"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:32.530Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521582905349696,
+      "item": {
+        "type": "Podcast",
+        "title": "我醒来在寒冷的山坡上",
+        "description": "「我醒来在」播客。\n提供一些非欧几里得观点。\n关于幻想的一切，以及AI与人类共同欣赏的事物。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "我醒来在寒冷的山坡上"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "「我醒来在」播客。\n提供一些非欧几里得观点。\n关于幻想的一切，以及AI与人类共同欣赏的事物。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2024/01/09/d63c65b9-9fe6-4738-ba3b-3f872447ba12.jpg",
+        "rating": null,
+        "rating_count": 2,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "「我醒来在」播客。\n提供一些非欧几里得观点。\n关于幻想的一切，以及AI与人类共同欣赏的事物。",
+        "id": "https://neodb.social/podcast/5Lel6m2qJ5hhAZgmZ8cYWB",
+        "uuid": "5Lel6m2qJ5hhAZgmZ8cYWB",
+        "url": "/podcast/5Lel6m2qJ5hhAZgmZ8cYWB",
+        "api_url": "/api/podcast/5Lel6m2qJ5hhAZgmZ8cYWB",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "我醒来在寒冷的山坡上",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/jxlmvkdl89cv"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:30.581Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521576199260448,
+      "item": {
+        "type": "Podcast",
+        "title": "我是女博士",
+        "description": "我是女博士（Ms Dr）是一档女性访谈类播客。每两周更新一期，每期在周一发布，由上海杭苇教育出品。三位好奇心重的女博士主播红总、海云、黄薇每期将邀请一个女博士来畅谈她的专业发展、人生选择。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "我是女博士"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "我是女博士（Ms Dr）是一档女性访谈类播客。每两周更新一期，每期在周一发布，由上海杭苇教育出品。三位好奇心重的女博士主播红总、海云、黄薇每期将邀请一个女博士来畅谈她的专业发展、人生选择。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2024/07/06/b7104f15-66e4-4663-a342-dbd96065113a.png",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "我是女博士（Ms Dr）是一档女性访谈类播客。每两周更新一期，每期在周一发布，由上海杭苇教育出品。三位好奇心重的女博士主播红总、海云、黄薇每期将邀请一个女博士来畅谈她的专业发展、人生选择。",
+        "id": "https://neodb.social/podcast/007c7bN7Qc0bgo9utJQkxB",
+        "uuid": "007c7bN7Qc0bgo9utJQkxB",
+        "url": "/podcast/007c7bN7Qc0bgo9utJQkxB",
+        "api_url": "/api/podcast/007c7bN7Qc0bgo9utJQkxB",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "我是女博士",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/m64jkldu7mly"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:28.984Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521562129155840,
+      "item": {
+        "type": "Podcast",
+        "title": "独树不成林",
+        "description": "大家好，欢迎来到我的个人播客《独树不成林》。我是仲树，我目前的主要身份是一位政治哲学博士候选人，人在美国。《独树不成林》是一档以我本人人生经历出发谈论文学、哲学、爱情、政治理论、人文主义精神的个人播客，也可以说是我一个人的唠嗑节目。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "独树不成林"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "大家好，欢迎来到我的个人播客《独树不成林》。我是仲树，我目前的主要身份是一位政治哲学博士候选人，人在美国。《独树不成林》是一档以我本人人生经历出发谈论文学、哲学、爱情、政治理论、人文主义精神的个人播客，也可以说是我一个人的唠嗑节目。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2023/11/16/f3c2eb3b-502e-4185-bf9e-fa8631db2fd3.jpg",
+        "rating": 7.2,
+        "rating_count": 14,
+        "rating_distribution": [
+          0,
+          21,
+          14,
+          29,
+          36
+        ],
+        "tags": [
+          "政治社会学"
+        ],
+        "brief": "大家好，欢迎来到我的个人播客《独树不成林》。我是仲树，我目前的主要身份是一位政治哲学博士候选人，人在美国。《独树不成林》是一档以我本人人生经历出发谈论文学、哲学、爱情、政治理论、人文主义精神的个人播客，也可以说是我一个人的唠嗑节目。",
+        "id": "https://neodb.social/podcast/1ebbfElMyjsGqRYf526bH2",
+        "uuid": "1ebbfElMyjsGqRYf526bH2",
+        "url": "/podcast/1ebbfElMyjsGqRYf526bH2",
+        "api_url": "/api/podcast/1ebbfElMyjsGqRYf526bH2",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "独树不成林",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/y9qnpfdrctnx"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:25.628Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521558963041800,
+      "item": {
+        "type": "Podcast",
+        "title": "一人公司",
+        "description": "一个人也能成立一家公司，邀请身边年入百万的好朋友们，以IP经纪人的视角聊聊她们如何赚到第一个100万的，做业务的过程中有哪些踩坑经验，以及挖掘一下她们的价值观，深入了解她们如何成为她们。\n\n希望大家早日实现自己的第一个100万！",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "一人公司"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "一个人也能成立一家公司，邀请身边年入百万的好朋友们，以IP经纪人的视角聊聊她们如何赚到第一个100万的，做业务的过程中有哪些踩坑经验，以及挖掘一下她们的价值观，深入了解她们如何成为她们。\n\n希望大家早日实现自己的第一个100万！"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2026/01/26/e8c35bbf-d6af-4a22-b738-e4b3677fc2c4.jpg",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "一个人也能成立一家公司，邀请身边年入百万的好朋友们，以IP经纪人的视角聊聊她们如何赚到第一个100万的，做业务的过程中有哪些踩坑经验，以及挖掘一下她们的价值观，深入了解她们如何成为她们。\n\n希望大家早日实现自己的第一个100万！",
+        "id": "https://neodb.social/podcast/4A3iCPRtqj9q1C82YH96uW",
+        "uuid": "4A3iCPRtqj9q1C82YH96uW",
+        "url": "/podcast/4A3iCPRtqj9q1C82YH96uW",
+        "api_url": "/api/podcast/4A3iCPRtqj9q1C82YH96uW",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "一人公司",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/yeqkpht3xrex"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:24.875Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521542614138104,
+      "item": {
+        "type": "Podcast",
+        "title": "第一性♀",
+        "description": "各位女人们好，\n\n这里是属于女人的赛博森林，我们不自我贬低、不进入性缘关系、不性化弱化女人、不买辱女产品、不给他人输血、不爱任何男（包括纸片）、不和他人发生🌟行为，反阍反育。\n脱弱役、脱一切宗教、脱各种偶像、脱客体女人文化。在这些基本行为之外，我们反化装、反礼貌役……\n\n在这里，我们畅所欲言、大力批判、严于律己，拒绝沉默、坚持发声、不断成长，强大自我、夯实根基、突破重围。\n\n参与录制的的女人们来自五湖四海，不同年龄、不同背景，汇聚每个人独特的观点，以女本位的视角来看世界。\n\n欢迎在评论区留下你的观点，祝每一位听友在广阔天地间自由翱翔！\n\n《第一性》主播至上\n\n另：\n加听友群会有审核要求：女人。\n\n嘉宾申请:radfem\n播客收听平台:小宇宙、喜马拉雅、网易云、QQ音乐、荔枝",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "第一性♀"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "各位女人们好，\n\n这里是属于女人的赛博森林，我们不自我贬低、不进入性缘关系、不性化弱化女人、不买辱女产品、不给他人输血、不爱任何男（包括纸片）、不和他人发生🌟行为，反阍反育。\n脱弱役、脱一切宗教、脱各种偶像、脱客体女人文化。在这些基本行为之外，我们反化装、反礼貌役……\n\n在这里，我们畅所欲言、大力批判、严于律己，拒绝沉默、坚持发声、不断成长，强大自我、夯实根基、突破重围。\n\n参与录制的的女人们来自五湖四海，不同年龄、不同背景，汇聚每个人独特的观点，以女本位的视角来看世界。\n\n欢迎在评论区留下你的观点，祝每一位听友在广阔天地间自由翱翔！\n\n《第一性》主播至上\n\n另：\n加听友群会有审核要求：女人。\n\n嘉宾申请:radfem\n播客收听平台:小宇宙、喜马拉雅、网易云、QQ音乐、荔枝"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2026/01/26/14730752-d780-4fd4-bce4-66ef31c9da97.jpg",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "各位女人们好，\n\n这里是属于女人的赛博森林，我们不自我贬低、不进入性缘关系、不性化弱化女人、不买辱女产品、不给他人输血、不爱任何男（包括纸片）、不和他人发生🌟行为，反阍反育。\n脱弱役、脱一切宗教、脱各种偶像、脱客体女人文化。在这些基本行为之外，我们反化装、反礼貌役……\n\n在这里，我们畅所欲言、大力批判、严于律己，拒绝沉默、坚持发声、不断成长，强大自我、夯实根基、突破重围。\n\n参与录制的的女人们来自五湖四海，不同年龄、不同背景，汇聚每个人独特的观点，以女本位的视角来看世界。\n\n欢迎在评论区留下你的观点，祝每一位听友在广阔天地间自由翱翔！\n\n《第一性》主播至上\n\n另：\n加听友群会有审核要求：女人。\n\n嘉宾申请:radfem\n播客收听平台:小宇宙、喜马拉雅、网易云、QQ音乐、荔枝",
+        "id": "https://neodb.social/podcast/0MFmmUeZ5zmGRl53O64Xpr",
+        "uuid": "0MFmmUeZ5zmGRl53O64Xpr",
+        "url": "/podcast/0MFmmUeZ5zmGRl53O64Xpr",
+        "api_url": "/api/podcast/0MFmmUeZ5zmGRl53O64Xpr",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "第一性♀",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/c4yn7pnwthxk"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:20.975Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521521805213872,
+      "item": {
+        "type": "Podcast",
+        "title": "其他垃圾",
+        "description": "其他垃圾是一份可以收听的泛文化娱乐周刊，你在这里可以听到影视遗珠、文化现象、热点时评，我们一起向宇宙发射垃圾电波。\n\n欢迎垃圾佬们点点关注，一键回家。也欢迎把我们捡走，推荐给你的垃圾朋友。\n\n合作联系：kubrickneruda@foxmail.com\n\n另外，我们开通了听友群，欢迎添加垃圾转运小助手微信号转运入群哦：Otherwaste_",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "其他垃圾"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "其他垃圾是一份可以收听的泛文化娱乐周刊，你在这里可以听到影视遗珠、文化现象、热点时评，我们一起向宇宙发射垃圾电波。\n\n欢迎垃圾佬们点点关注，一键回家。也欢迎把我们捡走，推荐给你的垃圾朋友。\n\n合作联系：kubrickneruda@foxmail.com\n\n另外，我们开通了听友群，欢迎添加垃圾转运小助手微信号转运入群哦：Otherwaste_"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2024/10/20/cf74efea-f630-4ac3-b82a-17f526bc673d.png",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "其他垃圾是一份可以收听的泛文化娱乐周刊，你在这里可以听到影视遗珠、文化现象、热点时评，我们一起向宇宙发射垃圾电波。\n\n欢迎垃圾佬们点点关注，一键回家。也欢迎把我们捡走，推荐给你的垃圾朋友。\n\n合作联系：kubrickneruda@foxmail.com\n\n另外，我们开通了听友群，欢迎添加垃圾转运小助手微信号转运入群哦：Otherwaste_",
+        "id": "https://neodb.social/podcast/2EFAMq3vGY3PPNL1Aa5TBN",
+        "uuid": "2EFAMq3vGY3PPNL1Aa5TBN",
+        "url": "/podcast/2EFAMq3vGY3PPNL1Aa5TBN",
+        "api_url": "/api/podcast/2EFAMq3vGY3PPNL1Aa5TBN",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "其他垃圾",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/kdyd7hk6tfjq"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:16.013Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521508100836136,
+      "item": {
+        "type": "Podcast",
+        "title": "钱婧老师的会客厅",
+        "description": "我是钱婧（公众号：钱婧老师），是北京师范大学的教授，博士生导师。研究方向是管理心理学。关于个人成长，我做了20年的研究。\n\n这是我的播客，我会把和青年朋友们的的连线音频呈现给大家，同时，会陆续邀请一些朋友们一起来聊聊成长、求学和职场，会有点用，也会有一些爽感和欢乐。\n\n每周二更新，偶尔会加更，陪着你。\n\n本硕博全科科研习惯和方法入门: 《学术咸鱼自救指南》全网上新。\n购书链接：https://k.youshop10.com/Y9PDBsCG\n\n商务合作请发邮件：madoufu@hotmail.com\n听友群请加微信：Xiaoxiongpang123，注明本硕博学生或职场人，群内氛围美好，不定时抽取书籍等小礼物，快来一起互动吧!",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "钱婧老师的会客厅"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "我是钱婧（公众号：钱婧老师），是北京师范大学的教授，博士生导师。研究方向是管理心理学。关于个人成长，我做了20年的研究。\n\n这是我的播客，我会把和青年朋友们的的连线音频呈现给大家，同时，会陆续邀请一些朋友们一起来聊聊成长、求学和职场，会有点用，也会有一些爽感和欢乐。\n\n每周二更新，偶尔会加更，陪着你。\n\n本硕博全科科研习惯和方法入门: 《学术咸鱼自救指南》全网上新。\n购书链接：https://k.youshop10.com/Y9PDBsCG\n\n商务合作请发邮件：madoufu@hotmail.com\n听友群请加微信：Xiaoxiongpang123，注明本硕博学生或职场人，群内氛围美好，不定时抽取书籍等小礼物，快来一起互动吧!"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2023/12/25/70eed203-b893-45dc-b447-d89d63ae6c07.jpg",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "我是钱婧（公众号：钱婧老师），是北京师范大学的教授，博士生导师。研究方向是管理心理学。关于个人成长，我做了20年的研究。\n\n这是我的播客，我会把和青年朋友们的的连线音频呈现给大家，同时，会陆续邀请一些朋友们一起来聊聊成长、求学和职场，会有点用，也会有一些爽感和欢乐。\n\n每周二更新，偶尔会加更，陪着你。\n\n本硕博全科科研习惯和方法入门: 《学术咸鱼自救指南》全网上新。\n购书链接：https://k.youshop10.com/Y9PDBsCG\n\n商务合作请发邮件：madoufu@hotmail.com\n听友群请加微信：Xiaoxiongpang123，注明本硕博学生或职场人，群内氛围美好，不定时抽取书籍等小礼物，快来一起互动吧!",
+        "id": "https://neodb.social/podcast/4RDq9lk5iuOcLT7NCJ6pRh",
+        "uuid": "4RDq9lk5iuOcLT7NCJ6pRh",
+        "url": "/podcast/4RDq9lk5iuOcLT7NCJ6pRh",
+        "api_url": "/api/podcast/4RDq9lk5iuOcLT7NCJ6pRh",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "钱婧老师的会客厅",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/9lgcqvwrheuj"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:12.745Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521495238260192,
+      "item": {
+        "type": "Podcast",
+        "title": "安非她命",
+        "description": "安宁并非她的宿命。《安非她命》是一档女性视角的罪案播客，讲述女性罪犯的案件。今夜我们不关心男的，只关心她们的命运。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "安非她命"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "安宁并非她的宿命。《安非她命》是一档女性视角的罪案播客，讲述女性罪犯的案件。今夜我们不关心男的，只关心她们的命运。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2024/11/22/224d3733-43d4-4c96-888d-6ba8173904bc.jpg",
+        "rating": null,
+        "rating_count": 2,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "安宁并非她的宿命。《安非她命》是一档女性视角的罪案播客，讲述女性罪犯的案件。今夜我们不关心男的，只关心她们的命运。",
+        "id": "https://neodb.social/podcast/4jvZ6mUKWmjRu10E9p3YzC",
+        "uuid": "4jvZ6mUKWmjRu10E9p3YzC",
+        "url": "/podcast/4jvZ6mUKWmjRu10E9p3YzC",
+        "api_url": "/api/podcast/4jvZ6mUKWmjRu10E9p3YzC",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "安非她命",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/qwtc68qrx9b4"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:09.676Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521488541766168,
+      "item": {
+        "type": "Podcast",
+        "title": "纵横四海",
+        "description": "这是一个主题为「人生使用说明书」的读书播客。\n\n营养、睡眠、精力管理等书，是为了了解人体这具无法更替的「产品」。\n\n亲密关系、原生家庭、人生意义、社会结构等书，是为了了解人生必须面对的几个课题，提供怎么「使用人生」的参考。\n\n职业、商业案例、经济周期等书，则提供了更具体的使用工具。\n\n希望大家勤读说明书，用好只有一次的人生机会。\n\n微博：携隐\n\n公众号：携隐Melody\n\n小红书：纵横四海Official\n\n添加vx，加入读书群：zhshlia2（回复小宇宙）\n\n商务合作+vx：xymario（回复合作）",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "纵横四海"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "这是一个主题为「人生使用说明书」的读书播客。\n\n营养、睡眠、精力管理等书，是为了了解人体这具无法更替的「产品」。\n\n亲密关系、原生家庭、人生意义、社会结构等书，是为了了解人生必须面对的几个课题，提供怎么「使用人生」的参考。\n\n职业、商业案例、经济周期等书，则提供了更具体的使用工具。\n\n希望大家勤读说明书，用好只有一次的人生机会。\n\n微博：携隐\n\n公众号：携隐Melody\n\n小红书：纵横四海Official\n\n添加vx，加入读书群：zhshlia2（回复小宇宙）\n\n商务合作+vx：xymario（回复合作）"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2023/12/19/093cf20a-9ca4-41c0-80cc-ddb5babbe55e.jpg",
+        "rating": null,
+        "rating_count": 2,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "这是一个主题为「人生使用说明书」的读书播客。\n\n营养、睡眠、精力管理等书，是为了了解人体这具无法更替的「产品」。\n\n亲密关系、原生家庭、人生意义、社会结构等书，是为了了解人生必须面对的几个课题，提供怎么「使用人生」的参考。\n\n职业、商业案例、经济周期等书，则提供了更具体的使用工具。\n\n希望大家勤读说明书，用好只有一次的人生机会。\n\n微博：携隐\n\n公众号：携隐Melody\n\n小红书：纵横四海Official\n\n添加vx，加入读书群：zhshlia2（回复小宇宙）\n\n商务合作+vx：xymario（回复合作）",
+        "id": "https://neodb.social/podcast/4kpaluNSbAnLnbsaviIafI",
+        "uuid": "4kpaluNSbAnLnbsaviIafI",
+        "url": "/podcast/4kpaluNSbAnLnbsaviIafI",
+        "api_url": "/api/podcast/4kpaluNSbAnLnbsaviIafI",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "纵横四海",
+        "external_resources": [
+          {
+            "url": "https://www.ximalaya.com/album/67531569.xml"
+          },
+          {
+            "url": "https://eggplant.place/podcast/0ymz3fnN1BXoSz93Y85XtI"
+          },
+          {
+            "url": "https://feed.xyzfm.space/jl8739ky8w9j"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:08.082Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521474442690544,
+      "item": {
+        "type": "Podcast",
+        "title": "蜜獾吃书",
+        "description": "蜜獾吃书是一档小型杂食性读书节目。两位主播，一位到处游荡，在非洲修过电站，在法国当过记者；另一位专业翻译科普作品和科幻小说。我们热衷于阅读闲杂书籍，讨论各种奇奇怪怪的话题，观察他人的幻想与经历，思考它们于我们自身有何种启迪，并分享给你。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "蜜獾吃书"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "蜜獾吃书是一档小型杂食性读书节目。两位主播，一位到处游荡，在非洲修过电站，在法国当过记者；另一位专业翻译科普作品和科幻小说。我们热衷于阅读闲杂书籍，讨论各种奇奇怪怪的话题，观察他人的幻想与经历，思考它们于我们自身有何种启迪，并分享给你。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2023/02/10/8cb7933e-eb0d-4584-9844-9e2ba16936ae.jpg",
+        "rating": 8.8,
+        "rating_count": 23,
+        "rating_distribution": [
+          0,
+          0,
+          9,
+          30,
+          61
+        ],
+        "tags": [
+          "读书"
+        ],
+        "brief": "蜜獾吃书是一档小型杂食性读书节目。两位主播，一位到处游荡，在非洲修过电站，在法国当过记者；另一位专业翻译科普作品和科幻小说。我们热衷于阅读闲杂书籍，讨论各种奇奇怪怪的话题，观察他人的幻想与经历，思考它们于我们自身有何种启迪，并分享给你。",
+        "id": "https://neodb.social/podcast/3NYG1yT8TdSeSj0bi3tWAt",
+        "uuid": "3NYG1yT8TdSeSj0bi3tWAt",
+        "url": "/podcast/3NYG1yT8TdSeSj0bi3tWAt",
+        "api_url": "/api/podcast/3NYG1yT8TdSeSj0bi3tWAt",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "蜜獾吃书",
+        "external_resources": [
+          {
+            "url": "https://eggplant.place/podcast/0i3lOT2vo42jmDzmvWte4J"
+          },
+          {
+            "url": "https://www.ximalaya.com/album/64689453.xml"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:04.720Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521462578631720,
+      "item": {
+        "type": "Podcast",
+        "title": "岩中花述",
+        "description": "本节目是由意大利品牌GIADA为GIADA WOMAN推出的一档播客节目。见识过世界也体味过生活的GIADA WOMAN聚集在这里进行自由表达，交流人生思考，讨论专属于这个人生阶段的女性议题，传递出坚韧与温柔并存的女性力量。本节目由GIADA出品，JustPod制作发行。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "岩中花述"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "本节目是由意大利品牌GIADA为GIADA WOMAN推出的一档播客节目。见识过世界也体味过生活的GIADA WOMAN聚集在这里进行自由表达，交流人生思考，讨论专属于这个人生阶段的女性议题，传递出坚韧与温柔并存的女性力量。本节目由GIADA出品，JustPod制作发行。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2024/11/05/8afe8abc-7f6c-4420-be34-c4d3d0b6596f.jpg",
+        "rating": null,
+        "rating_count": 1,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "本节目是由意大利品牌GIADA为GIADA WOMAN推出的一档播客节目。见识过世界也体味过生活的GIADA WOMAN聚集在这里进行自由表达，交流人生思考，讨论专属于这个人生阶段的女性议题，传递出坚韧与温柔并存的女性力量。本节目由GIADA出品，JustPod制作发行。",
+        "id": "https://neodb.social/podcast/6uQktxtDmf5u5DluW10NsP",
+        "uuid": "6uQktxtDmf5u5DluW10NsP",
+        "url": "/podcast/6uQktxtDmf5u5DluW10NsP",
+        "api_url": "/api/podcast/6uQktxtDmf5u5DluW10NsP",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "岩中花述",
+        "external_resources": [
+          {
+            "url": "https://podcasts.apple.com/us/podcast/id1582119137"
+          },
+          {
+            "url": "https://feed.xyzfm.space/hwen8wf69c6g"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:52:01.892Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521453745050528,
+      "item": {
+        "type": "Podcast",
+        "title": "疲惫娇娃 CyberPink",
+        "description": "一档从饭桌聊到宇宙深处的泛文化播客，用女性的声波延展对世界的参与和想象",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "疲惫娇娃 CyberPink"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "一档从饭桌聊到宇宙深处的泛文化播客，用女性的声波延展对世界的参与和想象"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2023/02/02/b862aef9-2c67-4214-abca-b456a9fdd915.jpg",
+        "rating": 8.4,
+        "rating_count": 23,
+        "rating_distribution": [
+          0,
+          4,
+          9,
+          30,
+          57
+        ],
+        "tags": [
+          "2020s",
+          "2024",
+          "2025",
+          "女性"
+        ],
+        "brief": "一档从饭桌聊到宇宙深处的泛文化播客，用女性的声波延展对世界的参与和想象",
+        "id": "https://neodb.social/podcast/3PDjqvYQsSb47rnbx7yAck",
+        "uuid": "3PDjqvYQsSb47rnbx7yAck",
+        "url": "/podcast/3PDjqvYQsSb47rnbx7yAck",
+        "api_url": "/api/podcast/3PDjqvYQsSb47rnbx7yAck",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "疲惫娇娃 CyberPink",
+        "external_resources": [
+          {
+            "url": "https://cyberpinkfm.typlog.io/feed/audio.xml"
+          },
+          {
+            "url": "https://cyberpinkfm.xyz/feed.xml"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:51:59.784Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521450766940432,
+      "item": {
+        "type": "Podcast",
+        "title": "吴话可说",
+        "description": "As a woman I have no country. As a woman my country is the whole world. Virginia Woolf\n我深以为意，并希望自己能做一个世界居民。\n\n我是吴花果，\n在一间自己的房间里，吴花果通过自言自语思考生活和世界，有时也邀请志同道合的朋友进来一起聊聊。\n\n播客Logo背景图为冰岛海景。\n四个箭头以及背后的无垠大海——坏女孩走四方\n尖锐的声波状“吴话可说”汉语拼音首字母大写——不必悦耳，女人要大声说自己想说的话\n“吴话可说”不是“无话可说”，而是我非要大声说！\n\n吴花果，日耳曼文学硕士+人工智能/自然语言处理本科\n我在德国重新开始，与你分享我的成长\n\n在Podvine、Spotify、苹果Podcast、小宇宙均可搜索到《吴话可说》\n邮箱 ameliestudiertd@126.com\n推特 @89Schan64Schan3\n有偿留德咨询/辅助、德语辅导请联系vx: liudeassistant",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "吴话可说"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "As a woman I have no country. As a woman my country is the whole world. Virginia Woolf\n我深以为意，并希望自己能做一个世界居民。\n\n我是吴花果，\n在一间自己的房间里，吴花果通过自言自语思考生活和世界，有时也邀请志同道合的朋友进来一起聊聊。\n\n播客Logo背景图为冰岛海景。\n四个箭头以及背后的无垠大海——坏女孩走四方\n尖锐的声波状“吴话可说”汉语拼音首字母大写——不必悦耳，女人要大声说自己想说的话\n“吴话可说”不是“无话可说”，而是我非要大声说！\n\n吴花果，日耳曼文学硕士+人工智能/自然语言处理本科\n我在德国重新开始，与你分享我的成长\n\n在Podvine、Spotify、苹果Podcast、小宇宙均可搜索到《吴话可说》\n邮箱 ameliestudiertd@126.com\n推特 @89Schan64Schan3\n有偿留德咨询/辅助、德语辅导请联系vx: liudeassistant"
+          }
+        ],
+        "cover_image_url": null,
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "As a woman I have no country. As a woman my country is the whole world. Virginia Woolf\n我深以为意，并希望自己能做一个世界居民。\n\n我是吴花果，\n在一间自己的房间里，吴花果通过自言自语思考生活和世界，有时也邀请志同道合的朋友进来一起聊聊。\n\n播客Logo背景图为冰岛海景。\n四个箭头以及背后的无垠大海——坏女孩走四方\n尖锐的声波状“吴话可说”汉语拼音首字母大写——不必悦耳，女人要大声说自己想说的话\n“吴话可说”不是“无话可说”，而是我非要大声说！\n\n吴花果，日耳曼文学硕士+人工智能/自然语言处理本科\n我在德国重新开始，与你分享我的成长\n\n在Podvine、Spotify、苹果Podcast、小宇宙均可搜索到《吴话可说》\n邮箱 ameliestudiertd@126.com\n推特 @89Schan64Schan3\n有偿留德咨询/辅助、德语辅导请联系vx: liudeassistant",
+        "id": "https://neodb.social/podcast/1o4EAPGqb7VrO6hgWHr6nN",
+        "uuid": "1o4EAPGqb7VrO6hgWHr6nN",
+        "url": "/podcast/1o4EAPGqb7VrO6hgWHr6nN",
+        "api_url": "/api/podcast/1o4EAPGqb7VrO6hgWHr6nN",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "吴话可说",
+        "external_resources": [
+          {
+            "url": "https://anchor.fm/s/6ecacbc8/podcast/rss"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:51:59.080Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521441862121472,
+      "item": {
+        "type": "Podcast",
+        "title": "不安人生",
+        "description": "人生即使在不安中也要保持在场。\n（2025年打开大门欢迎大家交流！）",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "不安人生"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "人生即使在不安中也要保持在场。\n（2025年打开大门欢迎大家交流！）"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2026/01/26/1b088b64-2542-4e45-b735-45708bfe6da7.png",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "人生即使在不安中也要保持在场。\n（2025年打开大门欢迎大家交流！）",
+        "id": "https://neodb.social/podcast/7Bh3JUKruTrXR7rLEjunPg",
+        "uuid": "7Bh3JUKruTrXR7rLEjunPg",
+        "url": "/podcast/7Bh3JUKruTrXR7rLEjunPg",
+        "api_url": "/api/podcast/7Bh3JUKruTrXR7rLEjunPg",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "不安人生",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/yfaa988kjvrd"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:51:56.953Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521424493331376,
+      "item": {
+        "type": "Podcast",
+        "title": "知行小酒馆",
+        "description": "《知行小酒馆》是有知有行出品的一档分享投资与生活的播客节目。我们关注投资理财，更关注怎样更好地生活。在我们看来，投资成功，是我们变成一个更好的人之后，自然的结果。\n\n如果你对节目有任何建议，或者有推荐的嘉宾，或者想来小酒馆做客，欢迎在公众号「知行陪伴」、即刻或微博@知行小酒馆 给我们留言。有任何问题，也可以给我们发邮件，来信请寄： allinthebeer@gmail.com\n\n如果你有长期投资的需求，非常欢迎下载「有知有行」App，里面有你一定能读懂的好课程《投资第一课》，也有专业的投资观察《知行黑板报》，更有我们全员持有的好产品「长钱账户」。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "知行小酒馆"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "《知行小酒馆》是有知有行出品的一档分享投资与生活的播客节目。我们关注投资理财，更关注怎样更好地生活。在我们看来，投资成功，是我们变成一个更好的人之后，自然的结果。\n\n如果你对节目有任何建议，或者有推荐的嘉宾，或者想来小酒馆做客，欢迎在公众号「知行陪伴」、即刻或微博@知行小酒馆 给我们留言。有任何问题，也可以给我们发邮件，来信请寄： allinthebeer@gmail.com\n\n如果你有长期投资的需求，非常欢迎下载「有知有行」App，里面有你一定能读懂的好课程《投资第一课》，也有专业的投资观察《知行黑板报》，更有我们全员持有的好产品「长钱账户」。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2023/02/06/7e5c1843-87a3-4e84-8731-5cd3018f65f2.jpg",
+        "rating": 8.7,
+        "rating_count": 10,
+        "rating_distribution": [
+          0,
+          0,
+          10,
+          40,
+          50
+        ],
+        "tags": [
+          "投资"
+        ],
+        "brief": "《知行小酒馆》是有知有行出品的一档分享投资与生活的播客节目。我们关注投资理财，更关注怎样更好地生活。在我们看来，投资成功，是我们变成一个更好的人之后，自然的结果。\n\n如果你对节目有任何建议，或者有推荐的嘉宾，或者想来小酒馆做客，欢迎在公众号「知行陪伴」、即刻或微博@知行小酒馆 给我们留言。有任何问题，也可以给我们发邮件，来信请寄： allinthebeer@gmail.com\n\n如果你有长期投资的需求，非常欢迎下载「有知有行」App，里面有你一定能读懂的好课程《投资第一课》，也有专业的投资观察《知行黑板报》，更有我们全员持有的好产品「长钱账户」。",
+        "id": "https://neodb.social/podcast/1dTVCFSzStxzxveATsPkFQ",
+        "uuid": "1dTVCFSzStxzxveATsPkFQ",
+        "url": "/podcast/1dTVCFSzStxzxveATsPkFQ",
+        "api_url": "/api/podcast/1dTVCFSzStxzxveATsPkFQ",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "知行小酒馆",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:51:52.808Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521402519705120,
+      "item": {
+        "type": "Podcast",
+        "title": "普通读者",
+        "description": "\n“不同于批评家和学者，他受教育程度较低，也没有过人的天资。他读书是为了消遣，而不是为了传授知识或纠正他人的看法。”—— 伍尔夫《普通读者》\n“普通读者”是一个安利书籍的播客。不定期更新。\n所有提到的书都是主播们的独断和偏见，如有不同意见，还请多多包涵。\n聊到的书籍类型不限，语言包括中日英文书籍。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "普通读者"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "\n“不同于批评家和学者，他受教育程度较低，也没有过人的天资。他读书是为了消遣，而不是为了传授知识或纠正他人的看法。”—— 伍尔夫《普通读者》\n“普通读者”是一个安利书籍的播客。不定期更新。\n所有提到的书都是主播们的独断和偏见，如有不同意见，还请多多包涵。\n聊到的书籍类型不限，语言包括中日英文书籍。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2023/02/22/e16bccac-38f1-4aaf-b990-1edbe2646220.jpg",
+        "rating": null,
+        "rating_count": 4,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "\n“不同于批评家和学者，他受教育程度较低，也没有过人的天资。他读书是为了消遣，而不是为了传授知识或纠正他人的看法。”—— 伍尔夫《普通读者》\n“普通读者”是一个安利书籍的播客。不定期更新。\n所有提到的书都是主播们的独断和偏见，如有不同意见，还请多多包涵。\n聊到的书籍类型不限，语言包括中日英文书籍。",
+        "id": "https://neodb.social/podcast/6r4OkzqLnvxYzUEiDpLFTa",
+        "uuid": "6r4OkzqLnvxYzUEiDpLFTa",
+        "url": "/podcast/6r4OkzqLnvxYzUEiDpLFTa",
+        "api_url": "/api/podcast/6r4OkzqLnvxYzUEiDpLFTa",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "普通读者",
+        "external_resources": [
+          {
+            "url": "https://www.ximalaya.com/album/47662199.xml"
+          },
+          {
+            "url": "https://anchor.fm/s/3bd8896c/podcast/rss"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:51:47.567Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521393068228656,
+      "item": {
+        "type": "Podcast",
+        "title": "惊奇",
+        "description": "这是一档科幻主题播客，一台时间机器，用语言带你回到未来。我们在这里聊聊科幻作家脑袋里最伟大、最诡异、最恶趣味的点子。让想象参与对话，让思维更加斑斓。本节目由JustPod出品。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "惊奇"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "这是一档科幻主题播客，一台时间机器，用语言带你回到未来。我们在这里聊聊科幻作家脑袋里最伟大、最诡异、最恶趣味的点子。让想象参与对话，让思维更加斑斓。本节目由JustPod出品。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2025/12/23/d0b776d6-9132-4f69-a135-1362faf7b16e.jpg",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "这是一档科幻主题播客，一台时间机器，用语言带你回到未来。我们在这里聊聊科幻作家脑袋里最伟大、最诡异、最恶趣味的点子。让想象参与对话，让思维更加斑斓。本节目由JustPod出品。",
+        "id": "https://neodb.social/podcast/6f5zDNPQtqAKGpQtLQLYwB",
+        "uuid": "6f5zDNPQtqAKGpQtLQLYwB",
+        "url": "/podcast/6f5zDNPQtqAKGpQtLQLYwB",
+        "api_url": "/api/podcast/6f5zDNPQtqAKGpQtLQLYwB",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "惊奇",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/8ftl9e78m7cj"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:51:45.319Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521387750327216,
+      "item": {
+        "type": "Podcast",
+        "title": "硅谷101",
+        "description": "失败、背叛、不被理解，硅谷精神领袖一直都不是完美的存在；他们是科学家，创造者，行动派，他们有独立的价值观。《硅谷101》是由媒体人泓君发起的深度访谈节目，是一档分享当下最新鲜的技术、知识与思想的科技播客。\n公众账号：硅谷101\n联系邮箱：podcast@sv101.net",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "硅谷101"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "失败、背叛、不被理解，硅谷精神领袖一直都不是完美的存在；他们是科学家，创造者，行动派，他们有独立的价值观。《硅谷101》是由媒体人泓君发起的深度访谈节目，是一档分享当下最新鲜的技术、知识与思想的科技播客。\n公众账号：硅谷101\n联系邮箱：podcast@sv101.net"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2023/02/02/b3f87db6-1d29-448f-9b6b-c1bf22ae2c7a.jpg",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "失败、背叛、不被理解，硅谷精神领袖一直都不是完美的存在；他们是科学家，创造者，行动派，他们有独立的价值观。《硅谷101》是由媒体人泓君发起的深度访谈节目，是一档分享当下最新鲜的技术、知识与思想的科技播客。\n公众账号：硅谷101\n联系邮箱：podcast@sv101.net",
+        "id": "https://neodb.social/podcast/4ibAYCWsoymRll8qkJxN8s",
+        "uuid": "4ibAYCWsoymRll8qkJxN8s",
+        "url": "/podcast/4ibAYCWsoymRll8qkJxN8s",
+        "api_url": "/api/podcast/4ibAYCWsoymRll8qkJxN8s",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "硅谷101",
+        "external_resources": [
+          {
+            "url": "https://feeds.fireside.fm/sv101/rss"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:51:44.050Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    },
+    {
+      "shelf_type": "progress",
+      "visibility": 0,
+      "post_id": 538521381481734192,
+      "item": {
+        "type": "Podcast",
+        "title": "fit4life | fitgirl weekly chat",
+        "description": "两位全平台百万粉丝女性运动和健康生活方式博主；每周关于女生健康，运动，饮食及健康生活方式的私聊；治愈，轻松，私密，无论你正在减肥，刚开始运动，初入职场；还是对自己的身材，相貌，生活方式不满意想要改变；这每周一小时的闺蜜私聊，都是你的治愈暖汤。\n\n\n\n加入听友群\n\n方法1️⃣：加“fit4life999”等小助理加你（如果添加次数太多可能会出现无法添加的情况，齐给大家稍安勿躁过一天在申请，或者直接通过方法二添加企业WX）\n\n方法2️⃣：公众号回复“我要进群”即可\n\n\nApple Podcast/喜马拉雅/小宇宙/网易云/荔枝/蜻蜓：fit4life\n\n微博/小红书/B站：fit4life\n\n公众号：fit4life健身与美食\n\n淘宝直播：fit4life健身与美食 （记得订阅）\n\n商务联系：Shanshan@fit4life.world",
+        "localized_title": [
+          {
+            "lang": "ko",
+            "text": "fit4life | fitgirl weekly chat"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "ko",
+            "text": "两位全平台百万粉丝女性运动和健康生活方式博主；每周关于女生健康，运动，饮食及健康生活方式的私聊；治愈，轻松，私密，无论你正在减肥，刚开始运动，初入职场；还是对自己的身材，相貌，生活方式不满意想要改变；这每周一小时的闺蜜私聊，都是你的治愈暖汤。\n\n\n\n加入听友群\n\n方法1️⃣：加“fit4life999”等小助理加你（如果添加次数太多可能会出现无法添加的情况，齐给大家稍安勿躁过一天在申请，或者直接通过方法二添加企业WX）\n\n方法2️⃣：公众号回复“我要进群”即可\n\n\nApple Podcast/喜马拉雅/小宇宙/网易云/荔枝/蜻蜓：fit4life\n\n微博/小红书/B站：fit4life\n\n公众号：fit4life健身与美食\n\n淘宝直播：fit4life健身与美食 （记得订阅）\n\n商务联系：Shanshan@fit4life.world"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/rss/2025/04/25/ced8cbb4-b24e-4b0d-8216-837173e69216.png",
+        "rating": null,
+        "rating_count": 0,
+        "rating_distribution": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tags": [],
+        "brief": "两位全平台百万粉丝女性运动和健康生活方式博主；每周关于女生健康，运动，饮食及健康生活方式的私聊；治愈，轻松，私密，无论你正在减肥，刚开始运动，初入职场；还是对自己的身材，相貌，生活方式不满意想要改变；这每周一小时的闺蜜私聊，都是你的治愈暖汤。\n\n\n\n加入听友群\n\n方法1️⃣：加“fit4life999”等小助理加你（如果添加次数太多可能会出现无法添加的情况，齐给大家稍安勿躁过一天在申请，或者直接通过方法二添加企业WX）\n\n方法2️⃣：公众号回复“我要进群”即可\n\n\nApple Podcast/喜马拉雅/小宇宙/网易云/荔枝/蜻蜓：fit4life\n\n微博/小红书/B站：fit4life\n\n公众号：fit4life健身与美食\n\n淘宝直播：fit4life健身与美食 （记得订阅）\n\n商务联系：Shanshan@fit4life.world",
+        "id": "https://neodb.social/podcast/0R9vPO7tdQOLyUeS6Xj76G",
+        "uuid": "0R9vPO7tdQOLyUeS6Xj76G",
+        "url": "/podcast/0R9vPO7tdQOLyUeS6Xj76G",
+        "api_url": "/api/podcast/0R9vPO7tdQOLyUeS6Xj76G",
+        "category": "podcast",
+        "parent_uuid": null,
+        "display_title": "fit4life | fitgirl weekly chat",
+        "external_resources": [
+          {
+            "url": "https://feed.xyzfm.space/6uchu6kdb8rq"
+          }
+        ]
+      },
+      "created_time": "2026-01-26T07:51:42.524Z",
+      "comment_text": null,
+      "rating_grade": null,
+      "tags": []
+    }
+  ]
 }
