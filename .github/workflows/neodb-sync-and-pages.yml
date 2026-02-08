@@ -3,7 +3,7 @@ name: Sync NeoDB data and Deploy Pages
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 2 * * *" # 每天跑一次（UTC）
+    - cron: "*/10 * * * *"  # 每天跑一次（UTC）
 
 permissions:
   contents: read
