@@ -5,11 +5,15 @@ on:
   schedule:
     - cron: "23 2 * * *"  # 每天跑一次（UTC）
 
+env:
+  # 提前启用 Node.js 24，消除 Node 20 即将废弃的警告
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 permissions:
   contents: write
   pages: write
   id-token: write
-  actions: write  # 新增：允许通过脚本调用 GitHub API 激活工作流
+  actions: write
 
 concurrency:
   group: "pages"
