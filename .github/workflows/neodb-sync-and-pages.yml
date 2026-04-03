@@ -6,9 +6,10 @@ on:
     - cron: "23 2 * * *"  # 每天跑一次（UTC）
 
 permissions:
-  contents: write  # 修改为 write，允许保活 Action 推送 Commit 刷新活跃度
+  contents: write
   pages: write
   id-token: write
+  actions: write  # 新增：允许通过脚本调用 GitHub API 激活工作流
 
 concurrency:
   group: "pages"
@@ -51,7 +52,6 @@ jobs:
           }
 
           def fetch_all(shelf: str, category: str):
-              # NeoDB shelf 类型常见：wishlist / progress / complete；category 包含 podcast/movie/tv/book/game 等
               items = []
               page = 1
               while True:
@@ -71,9 +71,6 @@ jobs:
                   time.sleep(0.2)
               return items
 
-
-          # - 书/影/游：complete
-          # - 听：podcast 只显示在听 => progress
           bundles = []
           bundles += fetch_all("complete", "book")
           bundles += fetch_all("complete", "movie")
@@ -92,7 +89,6 @@ jobs:
           with open("public/index.json", "w", encoding="utf-8") as f:
               json.dump(out, f, ensure_ascii=False, indent=2)
 
-          # 给 Pages 一个“可访问的首页”，否则访问根路径可能是 404（但 JSON 依然可访问）
           with open("public/index.html", "w", encoding="utf-8") as f:
               f.write("""<!doctype html>
           <meta charset="utf-8">
@@ -101,7 +97,6 @@ jobs:
           <p><a href="./index.json">index.json</a></p>
           """)
 
-          # 禁用 Jekyll（避免某些路径/文件被特殊处理）
           with open("public/.nojekyll", "w", encoding="utf-8") as f:
               f.write("")
 
@@ -120,5 +115,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-      - name: Keepalive Workflow
-        uses: gautamkrishnar/keepalive-workflow@v2
+      - name: Keep workflow active
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow enable "Sync NeoDB data and Deploy Pages"
