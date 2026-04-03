@@ -6,7 +6,7 @@ on:
     - cron: "23 2 * * *"  # 每天跑一次（UTC）
 
 permissions:
-  contents: read
+  contents: write  # 修改为 write，允许保活 Action 推送 Commit 刷新活跃度
   pages: write
   id-token: write
 
@@ -51,7 +51,7 @@ jobs:
           }
 
           def fetch_all(shelf: str, category: str):
-              # NeoDB shelf 类型常见：wishlist / progress / complete；category 包含 podcast/movie/tv/book/game 等 :contentReference[oaicite:3]{index=3}
+              # NeoDB shelf 类型常见：wishlist / progress / complete；category 包含 podcast/movie/tv/book/game 等
               items = []
               page = 1
               while True:
@@ -119,3 +119,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Keepalive Workflow
+        uses: gautamkrishnar/keepalive-workflow@v2
