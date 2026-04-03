@@ -3,25 +3,24 @@ name: Sync NeoDB data and Deploy Pages
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 2 * * *"  # 每天跑一次（UTC）
+    - cron: "23 2 * * *"  # 每天 UTC 02:23（北京时间 10:23）
 
 env:
-  # 提前启用 Node.js 24，消除 Node 20 即将废弃的警告
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 permissions:
   contents: write
   pages: write
   id-token: write
-  actions: write
 
 concurrency:
-  group: "pages"
+  group: pages
   cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -36,7 +35,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Fetch NeoDB -> public/index.json (+ simple index.html)
+      - name: Fetch NeoDB -> public/index.json
         env:
           NEODB_TOKEN: ${{ secrets.NEODB_TOKEN }}
           NEODB_BASE: https://neodb.social
@@ -46,36 +45,39 @@ jobs:
           from datetime import datetime, timezone
           import requests
 
-          base = os.getenv("NEODB_BASE", "https://neodb.social").rstrip("/")
+          base = os.getenv("NEODB_BASE").rstrip("/")
           token = os.environ["NEODB_TOKEN"]
 
           headers = {
               "Authorization": f"Bearer {token}",
               "Accept": "application/json",
-              "User-Agent": "neodb-sync-github-actions"
+              "User-Agent": "neodb-sync"
           }
 
-          def fetch_all(shelf: str, category: str):
+          def fetch_all(shelf, category):
               items = []
               page = 1
               while True:
                   url = f"{base}/api/me/shelf/{shelf}?category={category}&page={page}"
                   r = requests.get(url, headers=headers, timeout=30)
+
                   if r.status_code != 200:
-                      raise SystemExit(f"Request failed: {r.status_code} {r.text[:2000]}")
-                  data = r.json()
-                  page_items = data.get("data") or []
-                  if not page_items:
+                      raise SystemExit(r.text)
+
+                  data = r.json().get("data") or []
+
+                  if not data:
                       break
-                  for it in page_items:
-                      it["_shelf"] = shelf
-                      it["_category"] = category
-                  items.extend(page_items)
+
+                  items.extend(data)
+
                   page += 1
                   time.sleep(0.2)
+
               return items
 
           bundles = []
+
           bundles += fetch_all("complete", "book")
           bundles += fetch_all("complete", "movie")
           bundles += fetch_all("complete", "tv")
@@ -84,27 +86,25 @@ jobs:
 
           out = {
               "generated_at": datetime.now(timezone.utc).isoformat(),
-              "source": {"base": base},
               "count": len(bundles),
               "items": bundles
           }
 
           os.makedirs("public", exist_ok=True)
+
           with open("public/index.json", "w", encoding="utf-8") as f:
               json.dump(out, f, ensure_ascii=False, indent=2)
 
           with open("public/index.html", "w", encoding="utf-8") as f:
-              f.write("""<!doctype html>
-          <meta charset="utf-8">
-          <title>NeoDB Media Data</title>
-          <h1>NeoDB Media Data</h1>
-          <p><a href="./index.json">index.json</a></p>
-          """)
+              f.write(
+                  "<meta charset='utf-8'>"
+                  "<h1>NeoDB Media Data</h1>"
+                  "<a href='./index.json'>index.json</a>"
+              )
 
-          with open("public/.nojekyll", "w", encoding="utf-8") as f:
-              f.write("")
+          open("public/.nojekyll", "w").close()
 
-          print("Wrote public/index.json items:", len(bundles))
+          print("Items:", len(bundles))
           PY
 
       - name: Configure Pages
@@ -115,11 +115,19 @@ jobs:
         with:
           path: public
 
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - name: Deploy Pages
         uses: actions/deploy-pages@v4
 
-      - name: Keep workflow active
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh workflow enable "Sync NeoDB data and Deploy Pages"
+      - name: Keepalive commit
+        if: github.event_name == 'schedule'
+        run: |
+          date > .keepalive
+
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add .keepalive
+
+          git commit -m "keepalive" || echo "No changes"
+
+          git push
